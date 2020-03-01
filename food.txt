@@ -1,5 +1,6 @@
+apples
 banana
-beans
+carrot
 dates
 egg
 fish
